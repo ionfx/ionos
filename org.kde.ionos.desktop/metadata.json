@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "ION"
+            }
+        ],
+        "Category": "",
+        "Description": "Ion theme - based on vapor",
+        "Id": "org.kde.ionos.desktop",
+        "License": "GPLv2+",
+        "EnabledByDefault": true,
+        "Name": "IonTheme",
+        "Version": "0.01",
+        "Website": ""
+    }
+}
